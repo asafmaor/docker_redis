@@ -1,4 +1,4 @@
-FROM alpine:3.1
+FROM alpine:3.2
 MAINTAINER Shuky Dvir <shuky@devops.co.il>
 
 RUN apk add --update redis \
